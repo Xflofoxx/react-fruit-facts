@@ -15,8 +15,8 @@ and understand how to switch between pages.
   * Dynamic link generation to components
   * How to pass url parameters to a component
 * **Plus**:
-  * Playing with fonts,  and colors
-  * Playing with fruits :banana:, :apple:, :pinapple:, :watermelon: ...
+  * Playing with fonts, and colors
+  * Playing with fruits :banana:, :apple:, :pineapple:, :watermelon: ...
 
 
 ## CRA and Available Scripts

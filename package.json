@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": false,
   "license": "mit",
+  "bugs": {
+    "bugs": "https://github.com/Xflofoxx/react-fruit-facts/issues"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Xflofoxx/react-fruit-facts.git"
@@ -15,9 +18,11 @@
     "@types/node": "^16.11.42",
     "@types/react": "^18.0.14",
     "@types/react-dom": "^18.0.5",
+    "ajv": "^8.11.0",
+    "nth-check": "^2.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "typescript": "^4.7.4",
     "web-vitals": "^2.1.4"
   },
@@ -42,5 +47,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "resolutions": {
+    "nth-check": "2.0.1"
   }
 }
