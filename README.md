@@ -1,10 +1,15 @@
 # react-fruit-facts
 
-Playing with [react-router-dom](https://github.com/remix-run/react-router/blob/main/docs/getting-started/installation.md)
+This is the first of my steps towards [React](https://reactjs.org/) and [Typescript](https://www.typescriptlang.org/).
 
-This is the first of my steps towards React.
+### Goals
+
+Playing
+with [react-router-dom](https://github.com/remix-run/react-router/blob/main/docs/getting-started/installation.md)
+and understand how to switch between pages.
 
 ### Learned
+
 * **React components**: BrowserRouter, Route, Link
 * **Usage**:
   * Dynamic link generation to components
@@ -16,7 +21,8 @@ This is the first of my steps towards React.
 
 ## CRA and Available Scripts
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) with
+the `--template typescript` option.
 In the project directory, you can run:
 
 ### `npm start`
