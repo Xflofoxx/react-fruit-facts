@@ -2,7 +2,7 @@
   "name": "router-tutorial",
   "version": "0.1.0",
   "private": false,
-  "license": "mit",
+  "license": "MIT",
   "bugs": {
     "bugs": "https://github.com/Xflofoxx/react-fruit-facts/issues"
   },
